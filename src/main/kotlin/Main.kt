@@ -1,4 +1,4 @@
 fun main(){
-    println("Hello world!!")
-
+    println("into the main function")
+    varibles()
 }
